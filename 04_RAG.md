@@ -13,7 +13,7 @@ Instead of relying solely on the LLM’s fixed internal knowledge (which may be 
 
 ## RAG Architecture Overview
 
-![RAG Architecture Flow](assets/rag-overview.png)
+![RAG Architecture Flow](assets/RAG-overview.png)
 
 The diagram above illustrates the core pipeline of a Retrieval-Augmented Generation system. Here’s how each component works:
 
